@@ -1,4 +1,4 @@
-# React Masterclass
+# E-COMMERCE APPLICATION
 
 This is a React project designed to demonstrate React concepts and best practices. The project is set up with React Scripts v5.0.1 for development and building.
 
